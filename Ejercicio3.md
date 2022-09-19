@@ -8,6 +8,6 @@
 | ------------ | ------ |
 | "Hola César" | Hola César |
 #### 1.4 Entradas
-#### Ninguna, solo se asigna la cadena "hola césar" a la variable mensaje
+Ninguna, solo se asigna la cadena "hola césar" a la variable mensaje
 #### 1.5 Salidas
 Hola César
