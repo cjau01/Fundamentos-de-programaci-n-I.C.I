@@ -1,4 +1,4 @@
-# Ejercicio 14.
+# Ejercicio 14. El resultado de la suma de los números naturales de 1 al 10
 ## 1.1 Análisis
 ###
 #### 1.2 Diagrama de flujo de datos
