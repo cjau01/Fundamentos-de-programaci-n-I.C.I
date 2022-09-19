@@ -8,6 +8,6 @@
 | ------ |
 | Lunes  |
 ####  1.4 Entradas
-Ninguna
+####  Ninguna
 ####  1.5 Salidas
 ####  Lunes
