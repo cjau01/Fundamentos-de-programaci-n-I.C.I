@@ -5,4 +5,6 @@
 ![image](https://user-images.githubusercontent.com/113397533/190950860-9efaca75-0ca5-462e-a6c6-3c53119de80a.png)
 #### 1.3 Prueba de escritorio
 #### 1.4 Entradas
+n
 #### 1.5 Salidas
+"Digita un número" "El número es par" "El número es impar"
