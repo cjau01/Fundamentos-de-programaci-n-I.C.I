@@ -9,5 +9,7 @@
 | Salida  |
 | ------  |
 |  César  |
-####  1.4 Salidas
+####  1.4 Entradas
+#### Ninguna
+####  1.5 Salidas
 "César"
